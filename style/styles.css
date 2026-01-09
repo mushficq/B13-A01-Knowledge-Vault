@@ -143,3 +143,17 @@
     gap: 6px;
     margin-bottom: 16px;
 }
+
+/* cta */
+.cta-box{
+    width: 80%;
+    margin: 0 auto 170px;
+    text-align: center;
+}
+.cta-btn{
+    padding: 16px;
+    margin-bottom: 16px;
+    display: inline-flex;
+    gap: 10px;
+    align-items: center;
+}
