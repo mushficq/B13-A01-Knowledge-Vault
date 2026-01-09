@@ -1,0 +1,8 @@
+.navbar{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    gap: 197px;
+}
